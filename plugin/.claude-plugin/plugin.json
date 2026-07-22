@@ -1,0 +1,8 @@
+{
+  "name": "naverlabs-slides",
+  "version": "1.0.0",
+  "description": "NAVER LABS CI 스타일의 자립형(오프라인) HTML 발표자료를 생성하는 스킬 플러그인",
+  "author": {
+    "name": "서장혁"
+  }
+}
